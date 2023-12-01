@@ -916,11 +916,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/sumanchava/Projects/CodingWiki/CodingWiki_Console/CodingWiki_Console.csproj",
+      "projectUniqueName": "/Users/sumanchava/Projects/CodingWiki/EFCore/CodingWiki_Console/CodingWiki_Console.csproj",
       "projectName": "CodingWiki_Console",
-      "projectPath": "/Users/sumanchava/Projects/CodingWiki/CodingWiki_Console/CodingWiki_Console.csproj",
+      "projectPath": "/Users/sumanchava/Projects/CodingWiki/EFCore/CodingWiki_Console/CodingWiki_Console.csproj",
       "packagesPath": "/Users/sumanchava/.nuget/packages/",
-      "outputPath": "/Users/sumanchava/Projects/CodingWiki/CodingWiki_Console/obj/",
+      "outputPath": "/Users/sumanchava/Projects/CodingWiki/EFCore/CodingWiki_Console/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/sumanchava/.nuget/NuGet/NuGet.Config"

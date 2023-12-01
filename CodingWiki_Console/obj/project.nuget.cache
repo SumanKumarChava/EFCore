@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sqRl2hkA8EHUij/6oaxSzNMoxZjV2pXe5NmlXm8NVuREnJpwhBb/SE+NCSEpHWyFcYiQAnTc4wfgcHn+yAWnnA==",
+  "dgSpecHash": "a3WEo8Vb0/5FwT8UQ6r53REnDVurP/jd/hvyuK1719hKdIwgoGcAFbm8QAXD6aI4m5z9c1tzkUHEHC2qUXxYfQ==",
   "success": true,
-  "projectFilePath": "/Users/sumanchava/Projects/CodingWiki/CodingWiki_Console/CodingWiki_Console.csproj",
+  "projectFilePath": "/Users/sumanchava/Projects/CodingWiki/EFCore/CodingWiki_Console/CodingWiki_Console.csproj",
   "expectedPackageFiles": [
     "/Users/sumanchava/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
     "/Users/sumanchava/.nuget/packages/microsoft.entityframeworkcore/7.0.14/microsoft.entityframeworkcore.7.0.14.nupkg.sha512",

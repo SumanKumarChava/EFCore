@@ -2886,11 +2886,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/sumanchava/Projects/CodingWiki/CodingWiki_Web/CodingWiki_Web.csproj",
+      "projectUniqueName": "/Users/sumanchava/Projects/CodingWiki/EFCore/CodingWiki_Web/CodingWiki_Web.csproj",
       "projectName": "CodingWiki_Web",
-      "projectPath": "/Users/sumanchava/Projects/CodingWiki/CodingWiki_Web/CodingWiki_Web.csproj",
+      "projectPath": "/Users/sumanchava/Projects/CodingWiki/EFCore/CodingWiki_Web/CodingWiki_Web.csproj",
       "packagesPath": "/Users/sumanchava/.nuget/packages/",
-      "outputPath": "/Users/sumanchava/Projects/CodingWiki/CodingWiki_Web/obj/",
+      "outputPath": "/Users/sumanchava/Projects/CodingWiki/EFCore/CodingWiki_Web/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/sumanchava/.nuget/NuGet/NuGet.Config"
@@ -2908,8 +2908,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "/Users/sumanchava/Projects/CodingWiki/CodingWiki_DataAccess/CodingWiki_DataAccess.csproj": {
-              "projectPath": "/Users/sumanchava/Projects/CodingWiki/CodingWiki_DataAccess/CodingWiki_DataAccess.csproj"
+            "/Users/sumanchava/Projects/CodingWiki/EFCore/CodingWiki_DataAccess/CodingWiki_DataAccess.csproj": {
+              "projectPath": "/Users/sumanchava/Projects/CodingWiki/EFCore/CodingWiki_DataAccess/CodingWiki_DataAccess.csproj"
             }
           }
         }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/sumanchava/Projects/CodingWiki/CodingWiki_Web/CodingWiki_Web.csproj": {}
+    "/Users/sumanchava/Projects/CodingWiki/EFCore/CodingWiki_Web/CodingWiki_Web.csproj": {}
   },
   "projects": {
-    "/Users/sumanchava/Projects/CodingWiki/CodingWiki_DataAccess/CodingWiki_DataAccess.csproj": {
+    "/Users/sumanchava/Projects/CodingWiki/EFCore/CodingWiki_DataAccess/CodingWiki_DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/sumanchava/Projects/CodingWiki/CodingWiki_DataAccess/CodingWiki_DataAccess.csproj",
+        "projectUniqueName": "/Users/sumanchava/Projects/CodingWiki/EFCore/CodingWiki_DataAccess/CodingWiki_DataAccess.csproj",
         "projectName": "CodingWiki_DataAccess",
-        "projectPath": "/Users/sumanchava/Projects/CodingWiki/CodingWiki_DataAccess/CodingWiki_DataAccess.csproj",
+        "projectPath": "/Users/sumanchava/Projects/CodingWiki/EFCore/CodingWiki_DataAccess/CodingWiki_DataAccess.csproj",
         "packagesPath": "/Users/sumanchava/.nuget/packages/",
-        "outputPath": "/Users/sumanchava/Projects/CodingWiki/CodingWiki_DataAccess/obj/",
+        "outputPath": "/Users/sumanchava/Projects/CodingWiki/EFCore/CodingWiki_DataAccess/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/sumanchava/.nuget/NuGet/NuGet.Config"
@@ -28,8 +28,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "/Users/sumanchava/Projects/CodingWiki/CodingWiki_Models/CodingWiki_Models.csproj": {
-                "projectPath": "/Users/sumanchava/Projects/CodingWiki/CodingWiki_Models/CodingWiki_Models.csproj"
+              "/Users/sumanchava/Projects/CodingWiki/EFCore/CodingWiki_Models/CodingWiki_Models.csproj": {
+                "projectPath": "/Users/sumanchava/Projects/CodingWiki/EFCore/CodingWiki_Models/CodingWiki_Models.csproj"
               }
             }
           }
@@ -75,14 +75,14 @@
         }
       }
     },
-    "/Users/sumanchava/Projects/CodingWiki/CodingWiki_Models/CodingWiki_Models.csproj": {
+    "/Users/sumanchava/Projects/CodingWiki/EFCore/CodingWiki_Models/CodingWiki_Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/sumanchava/Projects/CodingWiki/CodingWiki_Models/CodingWiki_Models.csproj",
+        "projectUniqueName": "/Users/sumanchava/Projects/CodingWiki/EFCore/CodingWiki_Models/CodingWiki_Models.csproj",
         "projectName": "CodingWiki_Models",
-        "projectPath": "/Users/sumanchava/Projects/CodingWiki/CodingWiki_Models/CodingWiki_Models.csproj",
+        "projectPath": "/Users/sumanchava/Projects/CodingWiki/EFCore/CodingWiki_Models/CodingWiki_Models.csproj",
         "packagesPath": "/Users/sumanchava/.nuget/packages/",
-        "outputPath": "/Users/sumanchava/Projects/CodingWiki/CodingWiki_Models/obj/",
+        "outputPath": "/Users/sumanchava/Projects/CodingWiki/EFCore/CodingWiki_Models/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/sumanchava/.nuget/NuGet/NuGet.Config"
@@ -130,14 +130,14 @@
         }
       }
     },
-    "/Users/sumanchava/Projects/CodingWiki/CodingWiki_Web/CodingWiki_Web.csproj": {
+    "/Users/sumanchava/Projects/CodingWiki/EFCore/CodingWiki_Web/CodingWiki_Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/sumanchava/Projects/CodingWiki/CodingWiki_Web/CodingWiki_Web.csproj",
+        "projectUniqueName": "/Users/sumanchava/Projects/CodingWiki/EFCore/CodingWiki_Web/CodingWiki_Web.csproj",
         "projectName": "CodingWiki_Web",
-        "projectPath": "/Users/sumanchava/Projects/CodingWiki/CodingWiki_Web/CodingWiki_Web.csproj",
+        "projectPath": "/Users/sumanchava/Projects/CodingWiki/EFCore/CodingWiki_Web/CodingWiki_Web.csproj",
         "packagesPath": "/Users/sumanchava/.nuget/packages/",
-        "outputPath": "/Users/sumanchava/Projects/CodingWiki/CodingWiki_Web/obj/",
+        "outputPath": "/Users/sumanchava/Projects/CodingWiki/EFCore/CodingWiki_Web/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/sumanchava/.nuget/NuGet/NuGet.Config"
@@ -155,8 +155,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "/Users/sumanchava/Projects/CodingWiki/CodingWiki_DataAccess/CodingWiki_DataAccess.csproj": {
-                "projectPath": "/Users/sumanchava/Projects/CodingWiki/CodingWiki_DataAccess/CodingWiki_DataAccess.csproj"
+              "/Users/sumanchava/Projects/CodingWiki/EFCore/CodingWiki_DataAccess/CodingWiki_DataAccess.csproj": {
+                "projectPath": "/Users/sumanchava/Projects/CodingWiki/EFCore/CodingWiki_DataAccess/CodingWiki_DataAccess.csproj"
               }
             }
           }

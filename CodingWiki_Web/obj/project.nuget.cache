@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DmYA8Z8EJKyEzxayGNmHa5R5jTSP/aUG/XNnRj/EIF9Kyh/V6MH5tSZcxoEcSmPdntdzbQm+X/28gc7DRODOnQ==",
+  "dgSpecHash": "3iTxT5QOI/3ATd6NlDuLWnfqZTCX5AJahlMlqQ+Q9s45C5eKVaiJioRpzWRS+qFcGHLBzudyPinr1A7zxSKc1Q==",
   "success": true,
-  "projectFilePath": "/Users/sumanchava/Projects/CodingWiki/CodingWiki_Web/CodingWiki_Web.csproj",
+  "projectFilePath": "/Users/sumanchava/Projects/CodingWiki/EFCore/CodingWiki_Web/CodingWiki_Web.csproj",
   "expectedPackageFiles": [
     "/Users/sumanchava/.nuget/packages/azure.core/1.25.0/azure.core.1.25.0.nupkg.sha512",
     "/Users/sumanchava/.nuget/packages/azure.identity/1.7.0/azure.identity.1.7.0.nupkg.sha512",
