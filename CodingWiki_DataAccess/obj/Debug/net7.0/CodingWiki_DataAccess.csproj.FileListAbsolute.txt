@@ -1,0 +1,17 @@
+/Users/sumanchava/Projects/CodingWiki/CodingWiki_DataAccess/bin/Debug/net7.0/CodingWiki_DataAccess.deps.json
+/Users/sumanchava/Projects/CodingWiki/CodingWiki_DataAccess/bin/Debug/net7.0/CodingWiki_DataAccess.runtimeconfig.json
+/Users/sumanchava/Projects/CodingWiki/CodingWiki_DataAccess/bin/Debug/net7.0/CodingWiki_DataAccess.dll
+/Users/sumanchava/Projects/CodingWiki/CodingWiki_DataAccess/bin/Debug/net7.0/CodingWiki_DataAccess.pdb
+/Users/sumanchava/Projects/CodingWiki/CodingWiki_DataAccess/bin/Debug/net7.0/CodingWiki_Models.dll
+/Users/sumanchava/Projects/CodingWiki/CodingWiki_DataAccess/bin/Debug/net7.0/CodingWiki_Models.pdb
+/Users/sumanchava/Projects/CodingWiki/CodingWiki_DataAccess/obj/Debug/net7.0/CodingWiki_DataAccess.csproj.AssemblyReference.cache
+/Users/sumanchava/Projects/CodingWiki/CodingWiki_DataAccess/obj/Debug/net7.0/CodingWiki_DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sumanchava/Projects/CodingWiki/CodingWiki_DataAccess/obj/Debug/net7.0/CodingWiki_DataAccess.AssemblyInfoInputs.cache
+/Users/sumanchava/Projects/CodingWiki/CodingWiki_DataAccess/obj/Debug/net7.0/CodingWiki_DataAccess.AssemblyInfo.cs
+/Users/sumanchava/Projects/CodingWiki/CodingWiki_DataAccess/obj/Debug/net7.0/CodingWiki_DataAccess.csproj.CoreCompileInputs.cache
+/Users/sumanchava/Projects/CodingWiki/CodingWiki_DataAccess/obj/Debug/net7.0/CodingWiki_DataAccess.csproj.CopyComplete
+/Users/sumanchava/Projects/CodingWiki/CodingWiki_DataAccess/obj/Debug/net7.0/CodingWiki_DataAccess.dll
+/Users/sumanchava/Projects/CodingWiki/CodingWiki_DataAccess/obj/Debug/net7.0/refint/CodingWiki_DataAccess.dll
+/Users/sumanchava/Projects/CodingWiki/CodingWiki_DataAccess/obj/Debug/net7.0/CodingWiki_DataAccess.pdb
+/Users/sumanchava/Projects/CodingWiki/CodingWiki_DataAccess/obj/Debug/net7.0/CodingWiki_DataAccess.genruntimeconfig.cache
+/Users/sumanchava/Projects/CodingWiki/CodingWiki_DataAccess/obj/Debug/net7.0/ref/CodingWiki_DataAccess.dll

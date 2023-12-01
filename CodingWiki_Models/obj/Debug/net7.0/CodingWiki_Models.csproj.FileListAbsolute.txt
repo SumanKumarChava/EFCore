@@ -1,0 +1,12 @@
+/Users/sumanchava/Projects/CodingWiki/CodingWiki_Models/bin/Debug/net7.0/CodingWiki_Models.deps.json
+/Users/sumanchava/Projects/CodingWiki/CodingWiki_Models/bin/Debug/net7.0/CodingWiki_Models.dll
+/Users/sumanchava/Projects/CodingWiki/CodingWiki_Models/bin/Debug/net7.0/CodingWiki_Models.pdb
+/Users/sumanchava/Projects/CodingWiki/CodingWiki_Models/obj/Debug/net7.0/CodingWiki_Models.csproj.AssemblyReference.cache
+/Users/sumanchava/Projects/CodingWiki/CodingWiki_Models/obj/Debug/net7.0/CodingWiki_Models.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sumanchava/Projects/CodingWiki/CodingWiki_Models/obj/Debug/net7.0/CodingWiki_Models.AssemblyInfoInputs.cache
+/Users/sumanchava/Projects/CodingWiki/CodingWiki_Models/obj/Debug/net7.0/CodingWiki_Models.AssemblyInfo.cs
+/Users/sumanchava/Projects/CodingWiki/CodingWiki_Models/obj/Debug/net7.0/CodingWiki_Models.csproj.CoreCompileInputs.cache
+/Users/sumanchava/Projects/CodingWiki/CodingWiki_Models/obj/Debug/net7.0/CodingWiki_Models.dll
+/Users/sumanchava/Projects/CodingWiki/CodingWiki_Models/obj/Debug/net7.0/refint/CodingWiki_Models.dll
+/Users/sumanchava/Projects/CodingWiki/CodingWiki_Models/obj/Debug/net7.0/CodingWiki_Models.pdb
+/Users/sumanchava/Projects/CodingWiki/CodingWiki_Models/obj/Debug/net7.0/ref/CodingWiki_Models.dll
